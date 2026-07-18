@@ -1,0 +1,1 @@
+bedrock_model_id = "global.anthropic.claude-haiku-4-5-20251001-v1:0"
